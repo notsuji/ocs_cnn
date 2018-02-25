@@ -1,1 +1,1 @@
-# one_class_svn_cnn
+# ocs_cnn
